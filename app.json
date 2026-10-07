@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Ob-havo",
+    "slug": "weather-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2563eb"
+    },
+    "android": {
+      "package": "com.example.weatherapp"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.weatherapp"
+    }
+  }
+}
